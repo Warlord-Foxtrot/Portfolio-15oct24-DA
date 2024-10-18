@@ -1,5 +1,8 @@
 import Image from "next/image";
 import bg from "../../public/background/home-background.png"
+import RenderModel from "@/Components/RenderModel";
+import Wizard from "@/Components/Models/Wizard";
+import Navigation from "@/Components/navigation";
 
 export default function Home() {
   return (
